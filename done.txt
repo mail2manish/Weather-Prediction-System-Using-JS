@@ -1,0 +1,12 @@
+created server
+created end points
+7b8afd7134a75a2304fbef68b11bce7d
+intalled body parser
+installed dotenv to hide the api key
+installing node-fetch to ftch data from api
+install ejs
+
+NOTE:
+we are sending data in get request why?
+let suppose multiple users are using our webpage then the user who search for mumbai and if suppose
+another user search for pune then the data get clashed.
